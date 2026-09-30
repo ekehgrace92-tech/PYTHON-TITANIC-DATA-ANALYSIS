@@ -98,4 +98,4 @@ My current areas of focus include:
 - Business Analysis
 - HR Analytics
 I am passionate about using data to uncover insights, solve problems, and support informed decision-making.
-⭐ Thank you for exploring this project!
+# ⭐Thank you for exploring this project!
