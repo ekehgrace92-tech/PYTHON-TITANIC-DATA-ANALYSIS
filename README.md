@@ -1,11 +1,11 @@
-# PYTHON-TITANIC-DATA-ANALYSIS
+# ⭐PYTHON-TITANIC-DATA-ANALYSIS
 Exploratory data analysis of the Titanic dataset using Python and Google Colab, including data cleaning, statistical analysis, visualization, and insights into passenger survival.
-# PROJECT OVERVIEW
+# ⭐PROJECT OVERVIEW
 This project presents an exploratory data analysis of the Titanic dataset using Python in Google Colab.
 The analysis explores passenger demographics, ticket information, and survival outcomes to identify patterns and relationships within the dataset.
 The project demonstrates the use of Python for data cleaning, exploratory data analysis, statistical analysis, data visualization, and insight generation.
 The main objectives of this project were to:
-# PROJECT OBJECTIVES
+# ⭐PROJECT OBJECTIVES
 - Understand and explore the Titanic dataset.
 - Clean and prepare the data for analysis.
 - Examine passenger demographics and characteristics.
@@ -13,7 +13,7 @@ The main objectives of this project were to:
 - Identify patterns and relationships within the dataset.
 - Create visualizations to communicate findings.
 - Generate meaningful insights from the analysis.
-# TOOLS USED
+# ⭐TOOLS USED
 - Python
 - Google Colab
 - Pandas
@@ -23,7 +23,7 @@ The main objectives of this project were to:
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization.
-# ANALYSIS PERFORMED
+# ⭐ANALYSIS PERFORMED
 The analysis covers several areas of the Titanic dataset, including:
 # Data Exploration
 - Examining the structure and dimensions of the dataset.
@@ -45,7 +45,7 @@ The project examines relationships between survival and variables such as:
 - Embarkation point
 # Data Visualization
 Visualizations were created to communicate patterns and relationships within the dataset and make the findings easier to understand.
-# INSIGHTS
+# ⭐INSIGHTS
 The analysis explores how passenger characteristics and travel-related factors were associated with survival outcomes.
 Some of the areas examined include:
 - Survival rates across passenger classes.
@@ -53,7 +53,7 @@ Some of the areas examined include:
 - The relationship between age and survival.
 - The relationship between fare and passenger class.
 - Passenger distribution across different categories.
-# PROJECT WORKFLOW
+# ⭐PROJECT WORKFLOW
 Data Collection
       ↓
 Data Loading
@@ -68,7 +68,7 @@ Data Visualization
       ↓
 Insight Generation
 This project demonstrates practical skills in:
-# SKILLS DEMONSRATED
+# ⭐SKILLS DEMONSRATED
 - Python programming
 - Data cleaning
 - Data preprocessing
@@ -81,14 +81,14 @@ This project demonstrates practical skills in:
 - Seaborn
 - Data interpretation
 - Data storytelling.
-# HOW TO USE
+# ⭐HOW TO USE
 The project was developed in Google Colab and can be opened and executed using Jupyter Notebook or Google Colab.
 To explore the project:
 - Open the .ipynb notebook.
 - Upload or connect the required Titanic dataset.
 - Run the notebook cells sequentially.
 - Review the analysis, visualizations, and findings.
-# ABOUT ME
+# ⭐ABOUT ME
 I am an aspiring Data Analyst developing practical skills in data analysis, visualization, business intelligence, and reporting.
 My current areas of focus include:
 - Excel
