@@ -88,7 +88,7 @@ To explore the project:
 - Upload or connect the required Titanic dataset.
 - Run the notebook cells sequentially.
 - Review the analysis, visualizations, and findings.
-# ⭐ABOUT ME
+# 👩‍💻ABOUT ME
 I am an aspiring Data Analyst developing practical skills in data analysis, visualization, business intelligence, and reporting.
 My current areas of focus include:
 - Excel
